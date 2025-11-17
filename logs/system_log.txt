@@ -1,0 +1,8 @@
+=== IT Service Health Snapshot ===
+Service: DATABASE | Status: OK | Risk: 10
+Service: AUTH | Status: OK | Risk: 10
+Service: NETWORK | Status: OK | Risk: 10
+Service: BACKUP | Status: WARN | Risk: 40
+Service: LOGGING | Status: OK | Risk: 10
+Total Risk: 80 | Overall Level: LOW
+-------------------------------
